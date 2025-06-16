@@ -10,7 +10,6 @@ const firebaseConfig = {
   apiKey: "AIzaSyDuSAGcBie83lf8-2V3-WNxsGSqjbylVT0",
   authDomain: "gunluk-rutinler.firebaseapp.com",
   projectId: "gunluk-rutinler",
-  storageBucket: "gunluk-rutinler.firebasestorage.app",
   messagingSenderId: "667660361924",
   appId: "1:667660361924:web:8965b6cb6833b6a63c2991",
   measurementId: "G-5089QMTPEK"
